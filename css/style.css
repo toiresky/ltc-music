@@ -6,9 +6,11 @@ h1 {
 }
 
 p {
-  padding: 10px;
-  color: white;
+  
+  color: Maroon;
   font-family: 'Macondo';
+  text-align:center;
+  padding-left: 20px;
 }
 
 h2 {
@@ -53,14 +55,11 @@ h6 {
 
 .wrap {
   max-width: 900px;
+  
 }
 
 img {
   float: right;
-}
-
-p::first-letter {
-  font-size: xx-large;
 }
 
 ul {
@@ -119,5 +118,6 @@ h4 {
    color: white;
   font-family: 'Indie Flower';
   padding: 10px;
+ 
 }
 

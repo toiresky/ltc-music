@@ -8,7 +8,7 @@ h1 {
 
 p {
   padding: 10px;
-  color: White;
+  color: Maroon;
   text-align: center;
   font-family: 'Macondo';
 }
@@ -31,7 +31,7 @@ h2 {
 }
 
 body {
-  background-color: Grey;
+  background-image: url("batman-312342_960_720.png");
 
 }
 

@@ -16,7 +16,6 @@ p {
 h2 {
   padding: 10px;
   color: black;
-  background-color: LightSlateGrey;
   font-family: 'Indie Flower';
 }
 
@@ -45,14 +44,12 @@ body {
   padding: 10px;
 }
 
-.Note {
-  color: Cyan;
-}
+
 
 h6 {
   font-family: Swanky and Moo Moo;
   text-align: center;
-  color:plum;
+  color:black;
 }
 
 .wrap {

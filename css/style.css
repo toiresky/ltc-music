@@ -8,7 +8,6 @@ h1 {
 p {
   padding: 10px;
   color: white;
-  text-align: center;
   font-family: 'Macondo';
 }
 
@@ -117,7 +116,8 @@ a:active {
 }
 
 h4 {
-    color: white;
+   color: white;
   font-family: 'Indie Flower';
-  
+  padding: 10px;
 }
+

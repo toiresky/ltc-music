@@ -1,13 +1,13 @@
 
 h1 {
-  color: white;
+  color: Lime;
   font-family: 'Indie Flower';
   text-align: center;
 }
 
 p {
   
-  color: Maroon;
+  color: DarkSeaGreen;
   font-family: 'Macondo';
   text-align:center;
   padding-left: 20px;
@@ -95,4 +95,6 @@ h4 {
   padding: 10px;
  
 }
+
+  
 

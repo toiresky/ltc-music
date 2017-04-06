@@ -70,21 +70,12 @@ ul {
   
 }
 
-.color {
-  background-color: #333;
-  
-}
+
 
 .li {
   float: left;
 }
 
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-}
 
 li a:hover {
   background-color: LightSlateGrey;
@@ -96,22 +87,6 @@ li a:hover {
 
 .right-align {
   text-align: right;
-}
-
-a:link,
-a:visited {
-  background-color: #333;
-  color: white;
-  border: 2px solid #333;
-  padding: 10px 20px;
-  text-align: center;
-  display: inline-block;
-}
-
-a:hover,
-a:active {
-  background-color: #8c8c8c;
-  color: white;
 }
 
 h4 {

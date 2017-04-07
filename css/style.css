@@ -1,13 +1,13 @@
 
 h1 {
-  color: Lime;
+  color: DarkSalmon;
   font-family: 'Indie Flower';
   text-align: center;
 }
 
 p {
   
-  color: DarkSeaGreen;
+  color: darkturquoise;
   font-family: 'Macondo';
   text-align:center;
   padding-left: 20px;
@@ -90,7 +90,7 @@ li a:hover {
 }
 
 h4 {
-   color: Lime;
+   color:DarkViolet;
   font-family: 'Indie Flower';
   padding: 10px;
  

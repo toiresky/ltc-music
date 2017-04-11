@@ -31,7 +31,7 @@ h2 {
 }
 
 body {
-background-image: url("https://c1.staticflickr.com/9/8028/7610224626_0d46a90e19.jpg"), url (/https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Marvel_Studios_logo.svg/2000px-Marvel_Studios_logo.svg.png);
+/background-image: url("https://c1.staticflickr.com/9/8028/7610224626_0d46a90e19.jpg");
 background-repeat:no-repeat, no-repeat;
 background-position:center top, center bottom;
 background-size:cover, cover;

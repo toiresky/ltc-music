@@ -31,7 +31,7 @@ h2 {
 }
 
 body {
-background-image: url("https://c1.staticflickr.com/9/8028/7610224626_0d46a90e19.jpg");
+background-image: url("/images/7610224626_0d46a90e19.jpg");
 background-repeat:no-repeat;
 background-position:center top;
 background-size:cover;
@@ -58,13 +58,6 @@ h6 {
   
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  
-}
 
 h4 {
    color:DarkViolet;

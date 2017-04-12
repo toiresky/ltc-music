@@ -15,8 +15,8 @@ p {
 
 h2 {
   padding: 10px;
-  color: white;
   font-family: 'Indie Flower';
+  color:DarkTurquoise;
 }
 
 .smaller-image {
@@ -46,13 +46,6 @@ background-size:cover;
 }
 
 
-
-h6 {
-  font-family: Swanky and Moo Moo;
-  text-align: center;
-  color:black;
-}
-
 .wrap {
   max-width: 900px;
   
@@ -75,6 +68,11 @@ h3 {
 }
 .col-md-3{
   float:right;
+}
+h6 {
+  font-family: 'Swanky And Moo Moo';
+  color: DarkSalmon;
+  padding:10px;
 }
   
 

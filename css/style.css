@@ -31,7 +31,7 @@ h2 {
 }
 
 body {
-background-image: url("/images/Captain_America's_shield.svg.png");
+background-image: url("/");
 background-repeat:no-repeat;
 background-position:center;
 background-size:cover;
@@ -74,6 +74,10 @@ h6 {
 }
 .float{
   float:right;
+}
+.nerdical {
+  font-family: 'Swanky And Moo Moo';
+  
 }
   
 

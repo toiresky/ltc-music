@@ -7,16 +7,17 @@ h1 {
 
 p {
   
-  color: #113223;
+  color: DarkOliveGreen;
   font-family: 'Macondo';
-  text-align:center;
-  padding-left: 20px;
+  text-align:Left;
+  padding-left: 50px;
 }
 
 h2 {
   padding: 10px;
   font-family: 'Indie Flower';
-  color:DarkTurquoise;
+  color:DarkOliveGreen;
+  text-align:center;
 }
 
 .smaller-image {
@@ -31,9 +32,7 @@ h2 {
 }
 
 body {
-background-image: url("/");
-background-repeat:no-repeat;
-background-position:center;
+background-color: BlanchedAlmond;
 background-size:cover;
 }
 
@@ -53,15 +52,16 @@ background-size:cover;
 
 
 h4 {
-   color:DarkViolet;
+   color:DarkOliveGreen;
   font-family: 'Indie Flower';
   padding: 10px;
- 
+ text-align: center;
 }
 
 h3 {
- color:royalblue; 
+ color:DarkOliveGreen; 
  font-family:'Indie Flower';
+ text-align: center;
 }
 .nerd {
   color:DarkViolet;
@@ -77,7 +77,9 @@ h6 {
 }
 .nerdical {
   font-family: 'Swanky And Moo Moo';
+  color: DarkOliveGreen;
+  font-size: 25px;
   
 }
-  
+
 
